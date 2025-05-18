@@ -2,9 +2,9 @@
   "icon": "https://smkmutukemlagi.sch.id/assets/upload/images/logo/fc2c1fb98f01c37d8b22a8d31494be5c.png",
   "version": "1.0.3",
   "webviewonline": "https://cbt.smkmutu.web.id/",
-  "textOnline": "Status: Tidak Tersedia\nMulai: 25 April 2025, 08:00",
-  "statusOnline": false,
+  "textonline": "Status: Tidak Tersedia\nMulai: 25 April 2025, 08:00",
+  "statusonline": false,
   "webviewlocal": "https://angga.7togk.id",
-  "textLocal": "Status: Tersedia\nMulai: 25 April 2025, 08:00",
-  "statusLocal": true
+  "textlocal": "Status: Tersedia\nMulai: 25 April 2025, 08:00",
+  "statuslocal": true
 }
