@@ -1,8 +1,10 @@
 {
   "icon": "https://smkmutukemlagi.sch.id/assets/upload/images/logo/fc2c1fb98f01c37d8b22a8d31494be5c.png",
-  "welcome": "Selamat datang di Ujian MUTU",
+  "version": "1.0.3",
   "webviewonline": "https://cbt.smkmutu.web.id/",
+  "textOnline": "Status: Tidak Tersedia\nMulai: 25 April 2025, 08:00",
+  "statusOnline": false,
   "webviewlocal": "https://angga.7togk.id",
-  "footer1": "TIM DEVELOPER SMKN 1 KEMLAGI - 2025",
-  "footer2": "FARMASI - TEI - TPM"
+  "textLocal": "Status: Tersedia\nMulai: 25 April 2025, 08:00",
+  "statusLocal": true
 }
